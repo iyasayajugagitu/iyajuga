@@ -12,7 +12,7 @@ const menu = require("./lib/menu.js");
 const donate = require("./lib/donate.js");
 const info = require("./lib/info.js");
 //
-const BotName = 'BOT Frog🐸; // Nama Bot Whatsapp
+const BotName = 'BOT Frog; // Nama Bot Whatsapp
 const instagramlu = 'https://www.instagram.com'; // Nama Instagramlu cok
 const whatsapplu = '0896-3048-3621'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
